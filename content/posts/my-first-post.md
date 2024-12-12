@@ -14,3 +14,4 @@ Visit the [Hugo](https://gohugo.io) website!
 this is my first Hugo bolg.
 
 push error? 
+终于推送成功了！本地项目名必须与github项目名一致才行。
